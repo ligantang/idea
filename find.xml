@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.proper*</mask>
+      <mask>!.</mask>
+      <mask>!.js</mask>
+      <mask>!*.js</mask>
+      <mask>!*.j</mask>
+      <mask>!*.log</mask>
+      <mask>!*.log*</mask>
+      <mask>jva</mask>
+      <mask>jv</mask>
+      <mask>j</mask>
+      <mask>j'a'v</mask>
+      <mask>java</mask>
+      <mask>*.ftl</mask>
+      <mask>*.jav</mask>
+      <mask>*.f</mask>
+      <mask>*.</mask>
+      <mask>!</mask>
+      <mask>!*.</mask>
+      <mask>!*.ja</mask>
+      <mask>!*.jav</mask>
+      <mask>!*.java</mask>
+      <mask>!*.ftl</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
+      <mask>*java</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
